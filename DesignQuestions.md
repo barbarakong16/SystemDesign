@@ -4,4 +4,9 @@
      * Access pattern: random ( === indexing in sqlitedatabase)
      * Horiziontal v.s. Vertical scale
   * Disadvantages
-     * 
+
+* Fixed-length v.s. Variable-length
+   * Advantages:
+   * Disadvantages:
+
+
